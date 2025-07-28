@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 72.8333,
+    "lat": 21.1667
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 26.51,
+    "feels_like": 26.51,
+    "temp_min": 26.51,
+    "temp_max": 26.51,
+    "pressure": 1002,
+    "humidity": 85,
+    "sea_level": 1002,
+    "grnd_level": 1001
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 8.33,
+    "deg": 240,
+    "gust": 12.75
+  },
+  "clouds": {
+    "all": 91
+  },
+  "dt": 1753636744,
+  "sys": {
+    "country": "IN",
+    "sunrise": 1753576813,
+    "sunset": 1753624193
+  },
+  "timezone": 19800,
+  "id": 1255364,
+  "name": "Surat",
+  "cod": 200
+}
